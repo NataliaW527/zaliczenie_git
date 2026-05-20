@@ -7,3 +7,4 @@ void LedStepRight(void);  //zmiana
 void LedOn(unsigned char ucLedIndeks);
 
 #endif
+//git test
