@@ -3,7 +3,7 @@
 
 void LedInit(void);
 void LedStepLeft(void);
-void LedStepRight(void);
+void LedStepRight(void);  //zmiana
 void LedOn(unsigned char ucLedIndeks);
 
 #endif
